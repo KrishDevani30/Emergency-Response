@@ -1,0 +1,9 @@
+warning: in the working copy of 'lib/Features/Response Screen/emergency_controller.dart', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'push_to_git.bat', LF will be replaced by CRLF the next time Git touches it
+[main 02ca5c6] Final migration to LocalStorage and build fixes
+ 23 files changed, 1124 insertions(+), 1442 deletions(-)
+ create mode 100644 git_log.txt
+ create mode 100644 lib/Features/Response Screen/emergency_controller.dart
+ create mode 100644 push_to_git.bat
+remote: Permission to KrishDevani30/Emergency-Response.git denied to VrajDobariya82.
+fatal: unable to access 'https://github.com/KrishDevani30/Emergency-Response/': The requested URL returned error: 403
